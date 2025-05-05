@@ -1,3 +1,8 @@
+// Assignment 2
+// Write a program to implement Parallel Bubble Sort and Merge sort using OpenMP. Use 
+// existing algorithms and measure the performance of sequential and parallel algorithms. 
+// a. Bubble Sort
+
 #include <iostream>
 #include <omp.h>
 #include <algorithm>

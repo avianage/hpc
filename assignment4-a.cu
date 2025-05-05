@@ -1,3 +1,7 @@
+// Assignment 4
+// Write a CUDA Program for : 
+// 1. Addition of two large vectors 
+
 #include<stdio.h>
 
 __global__ void vector(float *A, float *B, float *C, int N){

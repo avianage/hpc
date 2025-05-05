@@ -1,3 +1,7 @@
+// Assignment 4
+// Write a CUDA Program for : 
+// 2. Matrix Multiplication using CUDA C 
+
 #include<stdio.h>
 
 __global__ void matMul(float *A, float *B, float *C, int N){
